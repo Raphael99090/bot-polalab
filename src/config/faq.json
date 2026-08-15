@@ -1,0 +1,8 @@
+{
+  "perguntas": [
+    { "id": "prazo", "pergunta": "Qual o prazo de entrega?", "resposta": "O prazo varia por serviço, geralmente entre 2 e 15 dias úteis. Você pode ver o prazo estimado de cada serviço em /servicos." },
+    { "id": "pagamento", "pergunta": "Quais formas de pagamento vocês aceitam?", "resposta": "Aceitamos Pix e outras formas combinadas com a equipe. Use /pagamento para ver os detalhes." },
+    { "id": "revisao", "pergunta": "Quantas revisões estão incluídas?", "resposta": "Cada pacote tem um número de revisões incluídas, detalhado na descrição do pacote escolhido em /servicos." },
+    { "id": "cancelamento", "pergunta": "Posso cancelar meu pedido?", "resposta": "Sim, entre em contato com a equipe pelo canal do seu pedido para verificar a política de cancelamento." }
+  ]
+}

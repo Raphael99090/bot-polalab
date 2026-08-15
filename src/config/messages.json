@@ -1,0 +1,16 @@
+{
+  "ping": {
+    "pong": "Pong! O bot do PolaLab está online. 🟢"
+  },
+  "erros": {
+    "comando": "Ocorreu um erro ao executar esse comando.",
+    "componente": "Ocorreu um erro ao processar essa ação. Tente novamente com /orcamento."
+  },
+  "orcamento": {
+    "sessaoExpirada": "⚠️ Essa sessão de orçamento expirou ou foi perdida (ex: bot reiniciado). Use /orcamento novamente.",
+    "cancelado": "❌ Orçamento cancelado."
+  },
+  "atendimento": {
+    "template": "📣 {usuario} pediu atendimento! {staff}, alguém pode ajudar por aqui?"
+  }
+}

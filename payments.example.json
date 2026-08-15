@@ -1,0 +1,14 @@
+{
+  "metodos": [
+    {
+      "id": "pix",
+      "nome": "Pix",
+      "instrucoes": "Chave Pix: SUBSTITUA_PELA_SUA_CHAVE\n\nApós o pagamento, envie o comprovante aqui no canal do pedido."
+    },
+    {
+      "id": "outro",
+      "nome": "Outras formas de pagamento",
+      "instrucoes": "Fale com a equipe do PolaLab pra combinar outra forma de pagamento (cartão, transferência, etc.)."
+    }
+  ]
+}
